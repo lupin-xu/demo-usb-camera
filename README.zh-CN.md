@@ -183,3 +183,6 @@ CAMAPP_VIDEO_ENCODER=x264enc ./camapp
 
 这些已在 `.gitignore` 中忽略。
 
+## 技术支持与贡献
+
+如在使用过程中遇到问题，欢迎在[移远官方论坛](https://forumschinese.quectel.com/c/quectel-pi/58)提交技术咨询，移远技术支持团队将及时为您解答。
