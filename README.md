@@ -82,5 +82,8 @@ gst-inspect-1.0 mpph264enc
 
 Do not commit build products such as `camapp`, `Makefile`, `.qmake.stash`, object files, `moc_*`, or generated `qrc_*.cpp` files. They are ignored by `.gitignore`.
 
+## Technical support and contributions
+
+If you encounter any problems during use, please submit a technical inquiry on the Quectel official forum. The Quectel technical support team will respond promptly.
 
 
