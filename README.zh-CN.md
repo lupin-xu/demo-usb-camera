@@ -4,6 +4,8 @@
 
 USB Camera 是一个基于 Qt Quick/QML 和 C++ 的 Linux 桌面相机应用，支持实时预览、拍照、录像、多摄像头选择、设备重扫和错误提示。
 
+<img width="1286" height="853" alt="preview" src="https://github.com/user-attachments/assets/d16340b7-bb5e-4b5d-a3ab-7e80dbc7127e" />
+
 ## 功能
 
 - 实时摄像头预览
