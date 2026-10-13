@@ -5,6 +5,8 @@
 
 USB Camera is a Linux desktop USB camera application built with Qt Quick/QML and C++. It supports live preview, JPG photo capture, MP4 video recording, multiple-camera selection, device rescanning, and configurable H.264 encoders.
 
+<img width="1280" height="851" alt="image" src="https://github.com/user-attachments/assets/b413857b-c043-4779-b325-da0fa78b9256" />
+
 ## Features
 
 - Live preview from V4L2/UVC cameras
