@@ -84,6 +84,6 @@ Do not commit build products such as `camapp`, `Makefile`, `.qmake.stash`, objec
 
 ## Technical support and contributions
 
-If you encounter any problems during use, please submit a technical inquiry on the Quectel official forum. The Quectel technical support team will respond promptly.
+If you encounter any problems during use, please submit a technical inquiry on the [Quectel official forum](https://forums.quectel.com/c/quectel-pi/80). The Quectel technical support team will respond promptly.
 
 
